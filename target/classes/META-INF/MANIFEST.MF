@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: scardoni
+Build-Jdk: 1.7.0_25
+Bundle-Version: 3.0.0.0beta
+Tool: Bnd-1.15.0
+Bundle-Name: Pesca3_0.1
+Bnd-LastModified: 1386343937712
+Bundle-Activator: org.cytoscape.pesca.internal.CyActivator
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.cytoscape.pesca
+Import-Package: javax.accessibility,javax.swing,javax.swing.border,jav
+ ax.swing.table,org.cytoscape.application;version="[3.0,4)",org.cytosc
+ ape.application.swing;version="[3.0,4)",org.cytoscape.model;version="
+ [3.0,4)",org.cytoscape.service.util;version="[3.0,4)",org.cytoscape.t
+ ask;version="[3.0,4)",org.cytoscape.view.model;version="[3.0,4)",org.
+ cytoscape.view.presentation.property;version="[3.0,4)",org.cytoscape.
+ view.vizmap;version="[3.0,4)",org.cytoscape.view.vizmap.mappings;vers
+ ion="[3.0,4)",org.cytoscape.work;version="[3.0,4)",org.jdesktop.layou
+ t,org.osgi.framework;version="[1.5,2)"
+
