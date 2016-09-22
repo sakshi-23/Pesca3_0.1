@@ -28,10 +28,17 @@ Usage: Select the isolated node and click start, then select the subnetwork and 
 
 ## Additional Parameters in the Control Panel
 
-####Help buttons: These correspond to their respective features and give a description on the parameters
-####Directed Checkbox: If checked, this will ensure that only directed paths would be calculated
-####Weighted Checkbox: If checked, this will prompt to specify the column for edge weights calculation. The column should already exist in the edge table and be of number type. 
-####Select network: The user can select among the networks and sessions in the dropdown and the corresponding network or session will be loaded. These networks have been extracted from ____. This feature requires an internet connection to work.
+####Help buttons: 
+These correspond to their respective features and give a description on the parameters
+
+####Directed Checkbox:
+If checked, this will ensure that only directed paths would be calculated
+
+####Weighted Checkbox:
+If checked, this will prompt to specify the column for edge weights calculation. The column should already exist in the edge table and be of number type. 
+
+####Select network:
+The user can select among the networks and sessions in the dropdown and the corresponding network or session will be loaded. These networks have been extracted from ____. This feature requires an internet connection to work.
 
 
 ##Result panel features
@@ -44,10 +51,17 @@ This has columns namely Size and number of Sp(Shortest Paths)
 
 ###Connectivity Table
  This has the following calculated parameters: 
-####Average Path Length- represents the Average of all the paths in the paths table. If 2 paths exist between a given set of nodes,only 1 path is taken under consideration for calculation. 
-####Unique S->T (Source to Target) Paths: This gives the total count of paths calculated for every unique combination of source and target
-####Expected Paths: This gives the total count of paths that would be expected for every unique combination of source and target in the calculation. This parameter is only calculated in case of finding All Nodes Shortest Path and Multi Source Shortest Path Tree.
-####Connectivity: True or false based on if the graph is connected or not. In case of directed, it needs to be strongly connected. This parameter is only calculated in case of finding All Nodes Shortest Path and Multi Shortest Path Tree
+ 
+####Average Path Length 
+This represents the Average of all the paths in the paths table. If 2 paths exist between a given set of nodes,only 1 path is taken under consideration for calculation. 
+####Unique S->T (Source to Target) Paths: 
+This gives the total count of paths calculated for every unique combination of source and target
+
+####Expected Paths: 
+This gives the total count of paths that would be expected for every unique combination of source and target in the calculation. This parameter is only calculated in case of finding All Nodes Shortest Path and Multi Source Shortest Path Tree.
+
+####Connectivity -
+True or false based on if the graph is connected or not. In case of directed, it needs to be strongly connected. This parameter is only calculated in case of finding All Nodes Shortest Path and Multi Shortest Path Tree
 
 
 ###View selected paths
