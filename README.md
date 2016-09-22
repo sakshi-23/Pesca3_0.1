@@ -5,8 +5,9 @@
 The Pesca App developed as part of Google Summer of Code 2013 can be basically used to find the shortest paths and trees in any given graph- directed or undirected or even weighted. Further it incorporates algorithms to find all nodes shortest paths, multiple shortest paths between nodes, SP clusters, connect a node to a subnetwork in the graph. The features include results regarding the connectivity of a graph, average path length, shortest path distribution graph and the ability to highlight certain paths from the results.
 
 ## Development
-Cytoscape 3.0 has a clearly defined, simplified API. You can learn more about the app development at: [App development](http://wiki.cytoscape.org/Cytoscape_3/AppDeveloper)
-[Setup ](http://opentutorials.cgl.ucsf.edu/index.php/Tutorial:Setup_App_development_environment)
+Cytoscape 3.0 has a clearly defined, simplified API. You can learn more about the app development at: 
+*[App development](http://wiki.cytoscape.org/Cytoscape_3/AppDeveloper)
+*[Setup ](http://opentutorials.cgl.ucsf.edu/index.php/Tutorial:Setup_App_development_environment)
 
 
 ## Features
