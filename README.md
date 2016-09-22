@@ -6,8 +6,8 @@ The Pesca App developed as part of Google Summer of Code 2013 can be basically u
 
 ## Development
 Cytoscape 3.0 has a clearly defined, simplified API. You can learn more about the app development at: 
-*[App development](http://wiki.cytoscape.org/Cytoscape_3/AppDeveloper)
-*[Setup ](http://opentutorials.cgl.ucsf.edu/index.php/Tutorial:Setup_App_development_environment)
+1. [App development](http://wiki.cytoscape.org/Cytoscape_3/AppDeveloper)
+2. [Setup ](http://opentutorials.cgl.ucsf.edu/index.php/Tutorial:Setup_App_development_environment)
 
 
 ## Features
